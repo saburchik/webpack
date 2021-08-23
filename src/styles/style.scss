@@ -1,0 +1,15 @@
+$color:#E87E7E;
+
+.box {
+    display: flex;
+    justify-content: center;
+    border: 2px solid darkgrey;
+    background-color: $color;
+    padding: 1rem;
+    border-radius: 5px;
+
+    .h2 {
+        color: #000;
+        font-size: 2rem;
+    }
+}
